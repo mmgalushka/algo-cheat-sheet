@@ -2,6 +2,8 @@
 
 [![Project License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mmgalushka/bootwrap/blob/main/LICENSE)
 
+> **📦 Archived.** This project is no longer maintained. The content is frozen as of September 2021, so check it against current references before relying on it. The PDF (`algo-n-ds.pdf`) and the editable source (`algo-n-ds.docx`) stay available under the MIT license. You're welcome to fork it and carry it on.
+
 This is a cheat sheet for Algorithms and Data Structures. To download it use the following command:
 
 ```Bush
